@@ -1,0 +1,10 @@
+#!/bin/sh
+rm -rf /tmp/book
+mkdir -p /tmp/book
+gitbook build . --output=/tmp/book
+git checkout gh-pages
+cp -Rf /tmp/book/* .
+git add -A .
+git commit -m 'Rebuild'
+git push
+git checkout master
