@@ -6,5 +6,5 @@ git checkout gh-pages
 cp -Rf /tmp/book/* .
 git add -A .
 git commit -m 'Rebuild'
-git push
+git push --set-upstream origin gh-pages
 git checkout master
