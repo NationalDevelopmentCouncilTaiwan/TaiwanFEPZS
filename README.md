@@ -13,7 +13,7 @@
 <td><span style="color: #800000;"><strong><span style="font-size: 14pt;">國發會澄清說明</span></strong></span></td>
 </tr>
 <tr>
-<td>框框內才是國發會的澄清說明內容喔！</td>
+<td>框框內之說明文字才是國發會的澄清說明內容喔！</td>
 </tr>
 </tbody>
 </table>
