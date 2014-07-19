@@ -10,13 +10,14 @@
 <table border="0">
 <tbody>
 <tr>
-<td><span style="color: #800000;"><strong><span style="font-size: 14pt;">國發會澄清說明</span></strong></span></td>
+<td style="text-align: center;"><strong><span style="color: #800000; font-family: 微軟正黑體;"><span style="font-size: 14pt;">國發會澄清說明</span></span></strong></td>
 </tr>
 <tr>
-<td>框框內之說明文字才是國發會的澄清說明內容喔！</td>
+<td style="text-align: center;"><strong><span style="font-family: 微軟正黑體;">框框內之說明文字才是國發會的澄清說明內容喔！</span></strong></td>
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong></p>
 
 
 ## 綱要
