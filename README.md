@@ -49,6 +49,7 @@
 * 「**破壞教育公共性**」爭議
 
 ## 懶人包、法規與報告文件(pdf)
+* [【國發會online第二發】示範區深度溝通會資料綜整平台](http://hackfoldr.org/fepz2)
 * [自由經濟示範區：逆轉勝的序曲](http://about.fepz.org.tw/)
 * [示範區：話說從頭](http://www.slideshare.net/NDCFepz/part-2-35993451)
 * [智慧物流係蝦米？](http://taiwan-ftz.com/public/Data/47416334571.pdf)
