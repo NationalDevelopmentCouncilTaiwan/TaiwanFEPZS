@@ -57,7 +57,7 @@
 * [自經區草案法規與總說明](http://www.fepz.org.tw/dn.aspx?uid=34042)
 * [修正動議（執政黨）](https://drive.google.com/file/d/0B6ZiS9f8Cm9qbzJwWmVJNW9pRDQ/edit?usp=sharing)
 * [修正動議（在野黨）](https://drive.google.com/file/d/0B6ZiS9f8Cm9qWkQtMTFJR2dFejA/edit?usp=sharing)
-* [自經區法規影響評估報告(520)](http://www.fepz.org.tw/dn.aspx?uid=35707)
+* [自經區法規影響評估報告(20140520)](http://www.fepz.org.tw/Upload/News_FILE/1030520%E3%80%8C%E8%87%AA%E7%94%B1%E7%B6%93%E6%BF%9F%E7%A4%BA%E7%AF%84%E5%8D%80%E7%89%B9%E5%88%A5%E6%A2%9D%E4%BE%8B(%E8%8D%89%E6%A1%88)%E3%80%8D%E6%B3%95%E8%A6%8F%E5%BD%B1%E9%9F%BF%E8%A9%95%E4%BC%B0%E5%A0%B1%E5%91%8A.pdf)
 
 
 ---
@@ -73,4 +73,4 @@
 ## 回饋
 
 想知道更多有關自由經濟示範區的政策內容嗎？<br/>
-歡迎你前往[自由經濟示範區：逆轉勝的序曲](http://www.fepz.org.tw/)，了解更多詳盡的內容，若有任何問題也歡迎寫信給我們：fepz@ndc.gov.tw，一起為台灣的未來加油！
+歡迎你前往[自由經濟示範區](http://www.fepz.org.tw/)，了解更多詳盡的內容，若有任何問題也歡迎寫信給我們：fepz@ndc.gov.tw，一起為台灣的未來加油！
